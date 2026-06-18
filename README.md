@@ -257,4 +257,32 @@ This project is created for learning and portfolio purposes. The dataset is a si
 ## Executive Summary 
 <img width="1296" height="742" alt="image" src="https://github.com/user-attachments/assets/2cd075d2-7499-4762-b855-f352a385337d" />
 
+## Sales Funnel Analysis
+<img width="1276" height="737" alt="image" src="https://github.com/user-attachments/assets/e494e6aa-2a60-4a76-b58f-598c45016294" />
+
+## Region Performance Analysis
+<img width="1283" height="747" alt="image" src="https://github.com/user-attachments/assets/1af0ee22-9ea5-4a55-8665-8facb4cd94fe" />
+
+## Project Manager Performance Analysis
+<img width="1277" height="743" alt="image" src="https://github.com/user-attachments/assets/160afd29-bb0f-4ce2-853e-3de2155d06d5" />
+
+## Service Category Performance Analysis
+<img width="1292" height="691" alt="image" src="https://github.com/user-attachments/assets/8cc653e6-964b-436f-9717-39ce45d9df54" />
+
+## Key Account Manager Performance Analysis
+<img width="1281" height="738" alt="image" src="https://github.com/user-attachments/assets/44ddb8e7-8d2d-485a-867a-85227cd74867" />
+
+## Product Analytics
+<img width="1296" height="742" alt="image" src="https://github.com/user-attachments/assets/91889b49-5873-4108-b681-3813edc550ed" />
+
+## Customer Analytics
+<img width="1292" height="741" alt="image" src="https://github.com/user-attachments/assets/0a5f10f6-53e1-40b9-9673-c465b8f52c18" />
+
+
+
+
+
+
+
+
   
