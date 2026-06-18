@@ -252,4 +252,9 @@ Urban-Company-Home-Makeover-Analytics/
 ## Disclaimer
 
 This project is created for learning and portfolio purposes. The dataset is a simulated business dataset inspired by operational workflows in the home makeover industry and does not represent confidential business information.
+
+## Dashboard 
+## Executive Summary 
+<img width="1296" height="742" alt="image" src="https://github.com/user-attachments/assets/2cd075d2-7499-4762-b855-f352a385337d" />
+
   
